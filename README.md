@@ -43,7 +43,7 @@ Bacharel em Ciência da Computação, focado em transformar dados em decisões e
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SouzaTDG&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Gabriel" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SouzaTDG&theme=tokyonight&hide_border=true" alt="Sequência do GitHub" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=SouzaTDG&theme=tokyonight&hide_border=true" alt="Sequência do GitHub" />
 </p>
 
 ---
