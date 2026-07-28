@@ -39,14 +39,6 @@ Bacharel em Ciência da Computação, focado em transformar dados em decisões e
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SouzaTDG&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do Gabriel" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=SouzaTDG&theme=tokyonight&hide_border=true" alt="Sequência do GitHub" />
-</p>
----
-
 ### 📬 Vamos nos conectar?
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielgonchoroski/)
