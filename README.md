@@ -42,3 +42,6 @@ Bacharel em Ciência da Computação, focado em transformar dados em decisões e
 ### 📬 Vamos nos conectar?
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielgonchoroski/)
+
+--- 
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Commit Graph" />
