@@ -45,3 +45,7 @@ Bacharel em Ciência da Computação, focado em transformar dados em decisões e
 
 --- 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Commit Graph" />
+--
+
+<img width="630" height="693" alt="image" src="https://github.com/user-attachments/assets/28f18484-7e23-42b0-85c9-b9a65bb6b0d1" />
+
