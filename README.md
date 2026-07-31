@@ -45,6 +45,5 @@ Bacharel em Ciência da Computação, focado em transformar dados em decisões e
 
 --- 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Commit Graph" />
---
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaTDG&layout=compact&langs_count=5&theme=dark)
+---
